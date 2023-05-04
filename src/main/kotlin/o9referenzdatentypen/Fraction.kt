@@ -70,7 +70,7 @@ data class Fraction(
     /**
      * Returns a new fraction that is a simplified version of this fraction.
      *
-     * @return A new fraction that has the same value as this fraction, but with the numerator and denominator
+     * @return A new fraction that has the same value as this fraction but with the numerator and denominator
      * divided by their greatest common divisor.
      */
     private fun shorten(): Fraction {

@@ -22,7 +22,7 @@ class KFrame(
 ) : JFrame() {
 
     init {
-        createUI(title, height, width, Surface(draw))
+        createUI(title, height+40, width, Surface(draw))
     }
 
     /**
