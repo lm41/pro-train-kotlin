@@ -1,8 +1,10 @@
+package o9referenzdatentypen
+
 /**
  * Programmieren Trainieren Seite 192
  * W.9.2 Mathematischer Bruch
  *
- * Erweitert um [Fraction.divide]` und weitere helper wie [Fraction.shorten] und [Fraction.gcd]
+ * Erweitert um [Fraction.divide] und weitere helper wie [Fraction.shorten] und [Fraction.gcd]
  * */
 
 
